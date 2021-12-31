@@ -26,7 +26,7 @@ function Profile() {
           <h1 className="profileName">Kent Barker</h1>
           <h2 className="NMLS">Mortgage Loan Officer (NMLS #288828)</h2>
           <p className="profileP">
-            Hello! I’m Kent, I look forward to helping you along your home
+            Hello! I’m Kent, I look forward to helping you with your home
             buying experience. I’ve provided a few useful links to get you
             started.
           </p>
