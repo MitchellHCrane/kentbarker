@@ -16,7 +16,7 @@ function GetStarted() {
           title="Loan Application"
           description="Create your account to apply with
           First Class Home Mortgage."
-          url="https://www.blink.mortgage/app/signup/p/firstclasshomemortgagellc/kentbarker"
+          url="https://www.blink.mortgage/app/signup/p/FirstClassHomeMortgage/kentbarker"
           iconName="applicationIcon"
           btnText="Start Application"
         />
