@@ -23,7 +23,7 @@ function GetStarted() {
 
         <GetStartedItem
           title="Framework Loan Education"
-          description="Educate yourself for smart homeownership with Framework, you’ll navigate every step of the process with confidence at no cost to you."
+          description="Educate yourself for smart homeownership with Framework, you’ll navigate every step of the process with confidence."
           url="https://uwm.frameworkhomeownership.org/"
           iconName="loanEducationIcon"
           btnText="Start Learning"
