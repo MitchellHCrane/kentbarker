@@ -20,19 +20,11 @@ function GetStarted() {
           iconName="applicationIcon"
           btnText="Start Application"
         />
-
+        
         <GetStartedItem
-          title="Framework Loan Education"
-          description="Educate yourself for smart homeownership with Framework, you’ll navigate every step of the process with confidence."
-          url="https://uwm.frameworkhomeownership.org/"
-          iconName="loanEducationIcon"
-          btnText="Start Learning"
-        />
-
-        <GetStartedItem
-          title="HomeView Loan Education"
-          description="Free for first-time home buyers! Welcome to your go-to resource for every step of your homeownership journey. No matter your goals or background, we're here to help."
-          url="https://www.fanniemae.com/education"
+          title="CreditSmart Loan Education"
+          description="Be confident about your finances. Our lessons will empower you to make educated decisions throughout the homebuying process."
+          url="https://creditsmart.freddiemac.com/paths/homebuyer-u/"
           iconName="loanEducationIcon"
           btnText="Start Learning"
         />
