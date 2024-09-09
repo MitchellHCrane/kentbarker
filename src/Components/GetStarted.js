@@ -16,7 +16,7 @@ function GetStarted() {
           title="Loan Application"
           description="Create your account to apply with
           First Class Home Mortgage."
-          url="https://firstclasshomemortgage.my1003app.com/102983/register"
+          url="https://firstclasshomemortgage.my1003app.com/288828/register"
           iconName="applicationIcon"
           btnText="Start Application"
         />
